@@ -12,9 +12,10 @@ This project was undertaken to understand the impact Coronavirus had on Nigeria.
 
 *I imported some external data(real gdp, budget data etc.) that reflects the impact of covid-19 on Nigeria's economy.
 
-*I derived basic information from the above collected data using the .info() and .head() methods to help understand what I'm dealing with.
 
 ### Step2 - Data Cleaning and Exploratory Data Analysis
+
+*I derived basic information from the above collected data using the .info() and .head() methods.
 
 *I renamed the covid data column and Covid_Recovered_Cases columns, reshaped the DataFrame and added a new column.
 
