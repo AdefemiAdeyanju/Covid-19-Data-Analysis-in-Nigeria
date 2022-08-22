@@ -7,8 +7,11 @@ This project was undertaken to understand the impact Coronavirus had on Nigeria.
 ### Step 1 - Data Collection
 
 *I scraped data off the NCDC website to give an up-to-date information on the statistics of the virus as at the time of the project, reshaped it with numpy, and converted it into a dataframe.
+
 *I imported external data off John Hopkin's GitHub repository and converted it into a dataframe.
+
 *I imported some external data(real gdp, budget data etc.) that reflects the impact of covid-19 on Nigeria's economy.
+
 *I derived basic information from the above collected data using the .info() and .head() methods to help understand what I'm dealing with.
 
 ### Step2 - Data Cleaning and Exploratory Data Analysis
